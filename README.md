@@ -54,11 +54,11 @@
 <div align="center">
   <h3>A portfolio website for an Assistant Professor of Tripura University using Html, CSS and JavaScript</h3>
   <a href="https://drjayantapal.blogspot.com/">
-    <img src="https://i.ibb.co/KjdcyTS/image-1.jpg" alt="Project 1" />
+    <img src="https://i.ibb.co/sHMYc3D/jp.jpg" alt="Project 1" />
   </a>
   <h3>Built a JobPortal (Job Posting Site) using Html, CSS and JavaScript</h3>
   <a href="https://www.jobsfortripura.in">
-    <img src="https://i.ibb.co/rsG0tZh/image.jpg" alt="Project 2" />
+    <img src="https://i.ibb.co/CsWNQ2K/jobsfortripura.jpg" alt="Project 2" />
   </a>
 </div>
 
