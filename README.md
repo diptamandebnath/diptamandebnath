@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/180861747?v=4" alt="Diptaman Debnath" width="150" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" />
   <h1>Hi, I'm <span style="color: #0078D4;">Diptaman Debnath</span> 👋</h1>
   <p><em>A physicist by passion, a creator by nature, and an anime enthusiast 🌌</em></p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Physicist+%7C+Anime+Lover+%7C+Creative+Problem+Solver;Passionate+About+Learning+and+Collaboration!" alt="Typing SVG" />
