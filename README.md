@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm <span style="color: #0078D4;">Diptaman Debnath</span> 👋</h1>
   <p><em>A physicist by passion, a creator by nature, and an anime enthusiast 🌌</em></p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Physicist+%7C+Anime+Lover+%7C+Creative+Problem+Solver;Passionate+About+Learning+and+Collaboration!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&width=500&lines=Physicist+%7C+Anime+Lover+%7C+Creative+Problem+Solver;Passionate+About+Learning+and+Collaboration!" alt="Typing Animation" />
 </div>
 
 ---
