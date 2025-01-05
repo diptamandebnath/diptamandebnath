@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm <span style="color: #0078D4;">Diptaman Debnath</span> 👋</h1>
-  <p><em>A physicist by passion, a creator by nature, and an anime enthusiast 🌌</em></p>
+  <p><em>Flutter Enthusiast and Learner of Web Designing | Crafting Beautiful and Functional Website with HTML & CSS</em></p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&width=500&lines=Student+%7C+Graphics+Designing+%7C+Coding;Turning Ideas into Digital Reality 💡" alt="Typing Animation" />
 </div>
 
