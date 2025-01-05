@@ -26,7 +26,7 @@
   <a href="https://instagram.com/_diptaman9999" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://your-portfolio-url.com" target="_blank">
+  <a href="https://diptamandebnath.github.io/resume" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
 </div>
