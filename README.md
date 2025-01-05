@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Diptaman Debnath</h1>
-<h3 align="center">A passionate physicist and anime enthusiast from Hailakandi, India 🌌</h3>
+<h1 align="center">Hi 👋, I'm <strong>Diptaman Debnath</strong></h1>
+<h3 align="center">Flutter Enthusiast and Learner of Web Designing | Crafting Beautiful and Functional Website with HTML & CSS | Turning Ideas into Digital Reality 💡 </h3>
 
 <p align="center">
   <img src="https://your-photo-url-here" alt="Diptaman Debnath" width="200" style="border-radius: 50%;" />
