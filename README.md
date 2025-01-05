@@ -56,6 +56,7 @@
   <a href="https://drjayantapal.blogspot.com/">
     <img src="https://media.licdn.com/dms/image/v2/D562DAQGkwqkp80kfaQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1735206003987?e=1736683200&v=beta&t=M19ZoYmSMN-ogJpJFGDgIBjz1iUX6anqvShc-8meKVk" alt="Project 1" />
   </a>
+  <h3>Built a JobPortal (Job Posting Site) using Html, CSS and JavaScript</h3>
   <a href="https://www.jobsfortripura.in">
     <img src="https://media.licdn.com/dms/image/v2/D562DAQGgyAKq-mVzmA/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1733653784810?e=1736683200&v=beta&t=NSQ0NIyuPKpXzTw8myn0a1mcDIERkQAIX6-Qn_xJh5U" alt="Project 2" />
   </a>
