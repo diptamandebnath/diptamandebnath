@@ -56,7 +56,7 @@
   <a href="https://drjayantapal.blogspot.com/">
     <img src="https://i.ibb.co/sHMYc3D/jp.jpg" alt="Project 1" />
   </a>
-  <h3><li>Built a JobPortal (Job Posting Site) using Html, CSS and JavaScript</li></h3>
+  <h3><li>Built a JobPortal (Job Posting Site) for Tripura State using Html, CSS and JavaScript</li></h3>
   <a href="https://www.jobsfortripura.in">
     <img src="https://i.ibb.co/CsWNQ2K/jobsfortripura.jpg" alt="Project 2" />
   </a>
