@@ -55,8 +55,8 @@
   <a href="https://github.com/diptaman9999/project1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=diptaman9999&repo=project1&theme=radical" alt="Project 1" />
   </a>
-  <a href="https://github.com/diptaman9999/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diptaman9999&repo=project2&theme=radical" alt="Project 2" />
+  <a href="https://www.jobsfortripura.in">
+    <img src="https://media.licdn.com/dms/image/v2/D562DAQGgyAKq-mVzmA/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1733653784810?e=1736683200&v=beta&t=NSQ0NIyuPKpXzTw8myn0a1mcDIERkQAIX6-Qn_xJh5U" alt="Project 2" />
   </a>
 </div>
 
