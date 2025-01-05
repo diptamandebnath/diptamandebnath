@@ -7,7 +7,7 @@
 ---
 
 ### 🔭 **About Me**
-- 🧪 Currently exploring **the mysteries of physics** and **the art of data science**.
+- 🧪 Currently exploring **Flutter (Dart Language)** and **Learning Web Designing**.
 - 🌱 Learning **Machine Learning, Data Visualization, and Advanced LaTeX**.
 - 🤝 Open to collaborations on **innovative projects** and **scientific research**.
 - 🎯 Goals for 2025: Publish impactful research, master AI, and build an anime-inspired project.
