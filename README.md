@@ -52,7 +52,7 @@
 
 ### ✨ **Highlighted Projects**
 <div align="center">
-  <h2>A portfolio website for an Assistant Professor of Tripura University using Html, CSS and JavaScript</h2>
+  <h3>A portfolio website for an Assistant Professor of Tripura University using Html, CSS and JavaScript</h3>
   <a href="https://drjayantapal.blogspot.com/">
     <img src="https://media.licdn.com/dms/image/v2/D562DAQGkwqkp80kfaQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1735206003987?e=1736683200&v=beta&t=M19ZoYmSMN-ogJpJFGDgIBjz1iUX6anqvShc-8meKVk" alt="Project 1" />
   </a>
