@@ -8,10 +8,8 @@
 
 ### 🔭 **About Me**
 - 🧪 Currently exploring **Flutter (Dart Language)** and **Learning Web Designing**.
-- 🌱 Learning **Machine Learning, Data Visualization, and Advanced LaTeX**.
-- 🤝 Open to collaborations on **innovative projects** and **scientific research**.
-- 🎯 Goals for 2025: Publish impactful research, master AI, and build an anime-inspired project.
-- 🌀 Fun fact: **I think physics and anime have more in common than you’d think!**
+- 🌱 Learning **HTML, CSS, JavaScript and Dart coding Language**.
+- 🤝 Open to collaborations for **innovative projects** and **Graphic Designing**.
 
 ---
 
