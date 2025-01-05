@@ -2,6 +2,10 @@
 <h3 align="center">A passionate physicist and anime enthusiast from Hailakandi, India 🌌</h3>
 
 <p align="center">
+  <img src="https://your-photo-url-here" alt="Diptaman Debnath" width="200" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=diptaman9999&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/diptaman9999?label=Followers&style=social" alt="GitHub Followers" />
 </p>
