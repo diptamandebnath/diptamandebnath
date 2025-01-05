@@ -1,28 +1,23 @@
-<h1 align="center">Hi 👋, I'm <strong>Diptaman Debnath</strong></h1>
-<h3 align="center">Flutter Enthusiast and Learner of Web Designing | Crafting Beautiful and Functional Website with HTML & CSS | Turning Ideas into Digital Reality 💡 </h3>
-
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQHc9_jbJoHgSA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731761308888?e=1741824000&v=beta&t=k08qRByeemjkyrqxyjAVkLigIkU9g_g8l3MYIscN7oM" alt="Diptaman Debnath" width="200" style="border-radius: 50%;" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diptaman9999&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/diptaman9999?label=Followers&style=social" alt="GitHub Followers" />
-</p>
+<div align="center">
+  <img src="https://your-photo-url-here" alt="Diptaman Debnath" width="150" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" />
+  <h1>Hi, I'm <span style="color: #0078D4;">Diptaman Debnath</span> 👋</h1>
+  <p><em>A physicist by passion, a creator by nature, and an anime enthusiast 🌌</em></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Physicist+%7C+Anime+Lover+%7C+Creative+Problem+Solver;Passionate+About+Learning+and+Collaboration!" alt="Typing SVG" />
+</div>
 
 ---
 
-🌟 **About Me**  
-- 🔭 Currently working on **[Exciting Projects](https://github.com/diptaman9999)**
-- 🌱 Learning **Data Analysis, Machine Learning, and Advanced Physics**
-- 👯 Looking to collaborate on **Innovative and impactful projects**
-- 💬 Ask me about **Physics, Anime, and Presentation Design**
-- ⚡ Fun fact: **I’m a physics geek who loves anime and creative problem-solving!**
+### 🔭 **About Me**
+- 🧪 Currently exploring **the mysteries of physics** and **the art of data science**.
+- 🌱 Learning **Machine Learning, Data Visualization, and Advanced LaTeX**.
+- 🤝 Open to collaborations on **innovative projects** and **scientific research**.
+- 🎯 Goals for 2025: Publish impactful research, master AI, and build an anime-inspired project.
+- 🌀 Fun fact: **I think physics and anime have more in common than you’d think!**
 
 ---
 
-<h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
+### 🌐 **Find Me Online**
+<div align="center">
   <a href="https://linkedin.com/in/diptamandebnath" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -35,52 +30,48 @@
   <a href="https://pinterest.com/diptaman54" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
   </a>
-</p>
+</div>
 
 ---
 
-<h3 align="center">🛠️ Tools & Technologies</h3>
-<p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://www.latex-project.org/" target="_blank">
-    <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank">
-    <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
-  </a>
-</p>
+### 🛠️ **Languages & Tools**
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
+</div>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
+### 📊 **GitHub Stats**
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diptaman9999&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diptaman9999&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptaman9999&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
-<h3 align="center">✨ Highlighted Projects</h3>
-<p align="center">
+### ✨ **Highlighted Projects**
+<div align="center">
   <a href="https://github.com/diptaman9999/project1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=diptaman9999&repo=project1&theme=radical" alt="Project 1" />
   </a>
   <a href="https://github.com/diptaman9999/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=diptaman9999&repo=project2&theme=radical" alt="Project 2" />
   </a>
-</p>
+</div>
 
 ---
 
-<h3 align="center">🚀 Fun Fact</h3>
-<p align="center">I believe in the power of creativity, whether it’s solving physics equations or enjoying a captivating anime series. Let’s connect and create something extraordinary!</p>
+### 🚀 **Fun Fact**
+<div align="center">
+  <p>I believe physics and anime share a common thread: **imagination without limits**. Let’s create something extraordinary together!</p>
+</div>
 
 ---
 
-⭐️ **If you like what you see, don’t forget to star my repositories and follow me!**  
+<div align="center">
+  ⭐️ **If you enjoyed visiting, don’t forget to star my repositories and follow me!**  
+</div>
