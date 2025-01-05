@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Enthusiast and Learner of Web Designing | Crafting Beautiful and Functional Website with HTML & CSS | Turning Ideas into Digital Reality 💡 </h3>
 
 <p align="center">
-  <img src="[https://your-photo-url-here](https://media.licdn.com/dms/image/v2/D5603AQHc9_jbJoHgSA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731761308888?e=1741824000&v=beta&t=k08qRByeemjkyrqxyjAVkLigIkU9g_g8l3MYIscN7oM)" alt="Diptaman Debnath" width="200" style="border-radius: 50%;" />
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQHc9_jbJoHgSA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731761308888?e=1741824000&v=beta&t=k08qRByeemjkyrqxyjAVkLigIkU9g_g8l3MYIscN7oM" alt="Diptaman Debnath" width="200" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
