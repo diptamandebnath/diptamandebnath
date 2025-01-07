@@ -3,6 +3,9 @@
   <p><em>Flutter Enthusiast and Learner of Web Designing | Crafting Beautiful and Functional Website with HTML & CSS</em></p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&width=500&lines=Student+%7C+Graphics+Designing+%7C+Coding;Turning Ideas into Digital Reality 💡" alt="Typing Animation" />
 </div>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=diptamandebnath&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
 
 ---
 
