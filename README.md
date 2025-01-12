@@ -10,9 +10,20 @@
 ---
 
 ### 🔭 **About Me**
-- 🧪 Currently exploring **Flutter (Dart Language)** and **Learning Web Designing**.
-- 🌱 Learning **HTML, CSS, JavaScript and Dart coding Language**.
-- 🤝 Open to collaborations for **innovative projects** and **Graphic Designing**.
+name: Diptaman Debnath
+education: Student
+fields_of_interest:
+  - Flutter Development
+  - Web Designing
+  - Graphic Designing
+currently_learning: 
+  - Flutter (Dart)
+  - HTML, CSS, JavaScript
+hobbies: 
+  - Coding
+  - Designing
+  - Exploring Anime & Physics
+
 
 ---
 
