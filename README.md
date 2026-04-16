@@ -59,14 +59,14 @@ Crafting beautiful and functional websites with **HTML & CSS**
 ## ✨ Highlighted Projects
 
 ### 🔹 Portfolio Website – Assistant Professor, Tripura University
-<a href="https://drjayantapal.blogspot.com/" target="_blank">
+<!-- <a href="https://drjayantapal.blogspot.com/" target="_blank">
   <img src="https://i.ibb.co/sHMYc3D/jp.jpg" width="70%" />
 </a>
 
 ### 🔹 Job Portal for Tripura State
 <a href="https://www.jobsfortripura.in" target="_blank">
   <img src="https://i.ibb.co/CsWNQ2K/jobsfortripura.jpg" width="70%" />
-</a>
+</a> -->
 
 ---
 
