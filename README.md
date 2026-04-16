@@ -5,7 +5,7 @@
 **Flutter Enthusiast & Web Design Learner**  
 Crafting beautiful and functional websites with **HTML & CSS**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Student+%7C+Graphic+Designing+%7C+Coding;Turning+Ideas+into+Digital+Reality+%F0%9F%92%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Student+%7C+Graphic+Desiger+%7C+Coder;Turning+Ideas+into+Digital+Reality+%F0%9F%92%A1" />
 
 <br/>
 
