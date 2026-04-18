@@ -28,7 +28,7 @@ Crafting beautiful and functional websites with **HTML & CSS**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diptamandebnath)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/diptaman9999)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diptaman9999)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white)](https://diptamandebnath.github.io/resume)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white)](https://diptaman.netlify.app)
 
 </div>
 
